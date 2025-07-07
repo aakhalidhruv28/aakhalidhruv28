@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Dhruv Aakhali</h1>
-<h3 align="center">AI Student & Enthusiast | Web Developer | Tech Explorer</h3>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/111553440?v=4" width="200" alt="Dhruv Patel's Profile Picture" style="border-radius:10%;">
+</p>
+
+<h1 align="center">Hey there, I'm Dhruv Patel 👋</h1>
+<p align="center"><b>Student of Artificial Intelligence | Web Developer | UI/UX Designer</b></p>
+
+<p align="center">
+  <i>"Code for the Career & Learn for the love of Technology."</i>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aakhalidhruv28&label=Profile%20views&color=0e75b6&style=flat" alt="aakhalidhruv28" />
@@ -11,6 +19,7 @@
 - 🎓 AI Student & Enthusiast
 - 👨‍💻 Web Developer | Always Learning & Innovating
 - 🚀 Passionate about building digital solutions
+- 💼 Founder at [Techy Dhruv Digital Services](https://techydhruv.com)
 
 ---
 
