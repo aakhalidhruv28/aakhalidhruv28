@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/68494604/120436157-39627380-c39c-11eb-89cf-58089fb1032d.gif" width="200" alt="Dhruv Patel's Profile Picture" style="border-radius:10%;">
+  <img src="https://media1.giphy.com/media/cmCEsJZHYBPels360q/200w.gif?cid=6c09b952gv3f9ikw7y3fcc3xt08k48xcbpn9una36kx2gfa9&ep=v1_stickers_search&rid=200w.gif&ct=s" width="200" alt="Dhruv Patel's Profile Picture" style="border-radius:10%;">
 </p>
 
 <h1 align="center">Hey there, I'm Dhruv Patel 👋</h1>
