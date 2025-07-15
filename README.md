@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/111553440?v=4" width="200" alt="Dhruv Patel's Profile Picture" style="border-radius:10%;">
+  <img src="https://andrewhungblog.wordpress.com/wp-content/uploads/2018/08/matrixrain.gif" width="200" alt="Dhruv Patel's Profile Picture" style="border-radius:10%;">
 </p>
 
 <h1 align="center">Hey there, I'm Dhruv Patel 👋</h1>
