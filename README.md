@@ -26,6 +26,8 @@
 
 ## 🌐 Connect with me
 <p>
+  <a href="https://linktr.ee/dhruvrpatel"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dhruvrpatel28102006/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://discord.gg/AGh5sJF8q5"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://instagram.com/dhruv.aakhali._.28"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="mailto:dhruvaakhali@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -97,7 +99,7 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aakhalidhruv28&theme=apprentice&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=aakhalidhruv28&theme=apprentice&hide_border=true" alt="GitHub Streak" />
@@ -108,7 +110,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=aakhalidhruv28&theme=default&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
