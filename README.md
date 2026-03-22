@@ -17,10 +17,10 @@
 ---
 
 ## 🌟 About Me
-- 🎓 AI Student & Enthusiast
-- 👨‍💻 Web Developer | Always Learning & Innovating
-- 🚀 Passionate about building digital solutions
-- 💼 Founder at [Techy Dhruv Digital Services](https://techydhruv.com)
+- 🧠 AI Agent Engineer & UX Developer
+- 🚀 Building Intelligent Systems
+- 📍Engineering the future, one agent at a time.
+- 💼 Founder at [UXTech.in](https://uxtech.in)
 
 ---
 
