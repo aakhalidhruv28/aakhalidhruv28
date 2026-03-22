@@ -122,16 +122,9 @@
 
 ---
 
-## 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=aakhalidhruv28&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" />
-</p>
-
----
-
 ## ☕ Support Me
 <p>
-  <a href="https://buymeacoffee.com/techydhruv28">
+  <a href="https://buymeacoffee.com/dhruvrpatel">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </p>
