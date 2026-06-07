@@ -97,22 +97,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakhalidhruv28&theme=apprentice&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aakhalidhruv28&theme=apprentice&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakhalidhruv28&theme=apprentice&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=aakhalidhruv28&theme=default&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ## ✍️ Dev Quote
