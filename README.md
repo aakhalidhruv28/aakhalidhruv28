@@ -11,8 +11,8 @@
     </td>
     <td width="70%" valign="middle" style="border: none; padding-left: 20px;">
       <h1>Hey there, I'm Dhruv Patel 👋</h1>
-      <h3>Student of Artificial Intelligence | Web Developer | UI/UX Designer</h3>
-      <p><i>"Code for the Career & Learn for the love of Technology."</i></p>
+      <h3>AI Product Developer | Full-Stack & AI/ML | UX</h3>
+      <p><i>"Building intelligent, user-focused digital products with modern web technologies, AI/ML and thoughtful UX."</i></p>
       <p>
         <img src="https://komarev.com/ghpvc/?username=aakhalidhruv28&label=Profile%20views&color=0e75b6&style=flat-square" alt="aakhalidhruv28" />
       </p>
@@ -59,17 +59,20 @@
     <td width="50%" valign="top" style="border: none; padding-right: 15px;">
       <h2>🌟 About Me</h2>
       <ul>
-        <li>🧠 <b>AI Agent Engineer & UX Developer</b>: Engineering the future, one agent at a time.</li>
-        <li>🚀 <b>Building Intelligent Systems</b>: Integrating LLMs, Prompt Engineering, and Vector DBs.</li>
-        <li>💼 <b>Founder</b> at <a href="https://uxtech.in" target="_blank">UXTech.in</a></li>
+        <li>🤖 <b>AI Product Developer</b>: Building intelligent, user-focused digital products.</li>
+        <li>🚀 <b>Full-Stack Development</b>: Building modern web applications from frontend to backend.</li>
+        <li>🧠 <b>AI/ML</b>: Exploring LLMs, AI applications and machine learning.</li>
+        <li>🎨 <b>UX Engineering</b>: Combining product design with frontend development.</li>
+        <li>💼 <b>Founder</b> at <a href="https://uxtech.in" target="_blank">UXTech.in</a> : Building practical digital solutions for real-world problems.</li>
       </ul>
     </td>
     <td width="50%" valign="top" style="border: none; padding-left: 15px;">
-      <h2>🚀 Current Goals & Endeavors</h2>
+      <h2>Current Focus</h2>
       <ul>
-        <li>🛠️ <b>Current Stack Focus:</b> Python, Django, FastAPI, React, AWS, Docker, PostgreSQL, MongoDB, Redis.</li>
-        <li>🤖 <b>AI/ML Focus:</b> Large Language Models, Prompt Engineering, and Vector Databases.</li>
-        <li>📚 <b>Learning:</b> Scalable System Design architectures and distributed systems.</li>
+        <li>🚀 <b>AI Product Development:</b> Building AI-powered applications and real-world products.</li>
+        <li>💻 <b>Full-Stack Development:</b> Strengthening JavaScript, React, backend development, APIs and databases.</li>
+        <li>🤖 <b>AI/ML:</b> Learning LLM applications, RAG, AI agents and machine learning fundamentals.</li>
+        <li>🧠 <b>Engineering Foundations:</b> DSA, Git, testing, system design and scalable application architecture.</li>
       </ul>
     </td>
   </tr>
